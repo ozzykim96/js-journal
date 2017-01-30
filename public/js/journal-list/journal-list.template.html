@@ -1,0 +1,10 @@
+<div class="journal">
+    <ul>
+        <li class="item" ng-repeat="item in $ctrl.list">
+            <span class="title">{{item.title}}</span>
+            <span class="date">{{item.date}}</span><a href="#!/edit">Edit</a>
+            <br>
+            {{item.content}}
+        </li> 
+    </ul>
+</div>

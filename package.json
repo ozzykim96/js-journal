@@ -1,0 +1,11 @@
+{
+    "name": "js-journal",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "jkim",
+    "contributors": [],
+    "dependencies": {
+        "formidable": "1.x",
+        "express": "3.0.0"    
+    }
+}
